@@ -1306,6 +1306,8 @@
 	/obj/item/clothing/head/soft/policecdetective = 4,
 	/obj/item/clothing/head/beret/policered = 4,
 	/obj/item/clothing/suit/storage/toggle/policejacket = 4,
+	/obj/item/clothing/under/det/grey = 4,
+	/obj/item/clothing/under/det/black = 4,
 	/obj/item/clothing/suit/storage/toggle/hazardvest/brightgreen = 4,
 	)
 
